@@ -1,5 +1,5 @@
 RTD Demo documentation!!
-===========================================
+========================
 
 Sample Read the docs documentation.
 
@@ -7,12 +7,12 @@ Guide:
 ^^^^^^
 
 .. toctree::
-   :caption: Contents:
    :maxdepth: 2
    
    intro
    license
    help
+   newpage
    
    
 

@@ -1,5 +1,5 @@
 RTD Demo documentation!!
-===========================================
+========================
 
 Sample Read the docs documentation.
 
@@ -12,6 +12,7 @@ Guide:
    intro
    license
    help
+   newpage
    
    
 
